@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 6f005751369c8ce4a91e14787e8e0061
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8124812389178510596
+    second: Kanith-attack_0
+  - first:
+      213: -5238674791263402900
+    second: Kanith-attack_1
+  - first:
+      213: -1917062585231553264
+    second: Kanith-attack_2
+  - first:
+      213: 7989293400861519551
+    second: Kanith-attack_3
+  - first:
+      213: 8804709996832815021
+    second: Kanith-attack_4
+  - first:
+      213: -4189828717644188840
+    second: Kanith-attack_5
+  - first:
+      213: -2147762576602518476
+    second: Kanith-attack_6
+  - first:
+      213: 4084274012324609137
+    second: Kanith-attack_7
+  - first:
+      213: 2417157443356421336
+    second: Kanith-attack_8
+  - first:
+      213: 8096847026958011946
+    second: Kanith-attack_9
+  - first:
+      213: -4612707055118605739
+    second: Kanith-attack_10
+  - first:
+      213: -2042339851482622096
+    second: Kanith-attack_11
+  - first:
+      213: -1470617608108593051
+    second: Kanith-attack_12
+  - first:
+      213: 3177550622989332099
+    second: Kanith-attack_13
+  - first:
+      213: -7181502711217082489
+    second: Kanith-attack_14
+  - first:
+      213: -956782633708010871
+    second: Kanith-attack_15
+  - first:
+      213: 4829745946694033367
+    second: Kanith-attack_16
+  - first:
+      213: -5976614266200436604
+    second: Kanith-attack_17
+  - first:
+      213: -2244014725403157155
+    second: Kanith-attack_18
+  - first:
+      213: 6000570620236283684
+    second: Kanith-attack_19
+  - first:
+      213: 3896231642779078292
+    second: Kanith-attack_20
+  - first:
+      213: 1087546971112711341
+    second: Kanith-attack_21
+  - first:
+      213: 1717720651879970243
+    second: Kanith-attack_22
+  - first:
+      213: -7896556572059374597
+    second: Kanith-attack_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kanith-attack_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 685
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b5dbd853dcfec449cb7725fb14e1fc
+      internalID: 8124812389178510596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 685
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0cc8fa7eab8204b87a22042a143020
+      internalID: -5238674791263402900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 685
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ed100e5841a684e94299170772dccf
+      internalID: -1917062585231553264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_3
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 685
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56c39de583383348b5a61acf85d2fd0
+      internalID: 7989293400861519551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_4
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 685
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001dfa5e7bf0fed4cb7a513751489168
+      internalID: 8804709996832815021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_5
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 685
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7e76d9f61022c489f8b9fd15a214c6
+      internalID: -4189828717644188840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 493
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ae0a26ad802e246a13cef1544492b8
+      internalID: -2147762576602518476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 493
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b869ed5b1666d9745b8f5c5e2c4bc097
+      internalID: 4084274012324609137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_8
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 493
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465f98c103983874c99b9619dd1225ae
+      internalID: 2417157443356421336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_9
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 493
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f106f0f9986174ba4d844f6823ac8f
+      internalID: 8096847026958011946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_10
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 493
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa80b215de87d3149a4291be376765de
+      internalID: -4612707055118605739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_11
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 493
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d2bb940a002604eb443b405fad93b6
+      internalID: -2042339851482622096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 301
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a1e72f31bd3bf4686736ef3bcd4caa
+      internalID: -1470617608108593051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 301
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b0cec63ccd7c749b51594f97787af2
+      internalID: 3177550622989332099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_14
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 301
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305253946d237bd48b3da1481006f133
+      internalID: -7181502711217082489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_15
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 301
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566bf60387913e44d9f068f13a3fc747
+      internalID: -956782633708010871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_16
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 301
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0a1cc7f08684640bbd5124817831e4
+      internalID: 4829745946694033367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_17
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 301
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa35968d2506e414c91129ab1d9751ef
+      internalID: -5976614266200436604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 109
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a245ddfb098574da152d159d435427
+      internalID: -2244014725403157155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_19
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 109
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d1b7fb586ead3428c413057d29edbf
+      internalID: 6000570620236283684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_20
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 109
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0729d860bbca14b4d831090968ace944
+      internalID: 3896231642779078292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_21
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 109
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03073871b9305e642a4bdbfd8e961e96
+      internalID: 1087546971112711341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_22
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 109
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c216c4a99f40a54b8854e49089fbd3a
+      internalID: 1717720651879970243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kanith-attack_23
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 109
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f85b336ac45b7745a8bfb0157276741
+      internalID: -7896556572059374597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
