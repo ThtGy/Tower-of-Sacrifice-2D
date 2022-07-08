@@ -49,6 +49,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -163,7 +164,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 711c11db121b4c4488e7bcfb7bb7e88e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  thrust: 2
+  thrust: 1.5
   knockTime: 0.2
   damage: 1
   HitSE: {fileID: 0}
