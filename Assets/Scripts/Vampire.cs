@@ -48,8 +48,6 @@ public class Vampire : Enemy
             currentState = EnemyState.attack;
 
             StartCoroutine(CastCo());
-
-            currentState = EnemyState.idle;
         }
     }
 
@@ -78,6 +76,8 @@ public class Vampire : Enemy
         animator.SetBool("Spellcast", false);
         yield return new WaitForSeconds(0.3f);
         StartCoroutine(SpawnFireCo());
+
+        currentState = EnemyState.idle;
     }
 
     private IEnumerator SpawnFireCo()

@@ -41,11 +41,14 @@ public class Knockback : MonoBehaviour
                 if (HitSE != null)
                     HitSE.Play();
             }
-
-            if(gameObject.CompareTag("Projectile"))
-            {
-                Destroy(gameObject, 0.3f);
-            }
+        }
+        //destroy all projectiles upon collision else they will fly indefinitely
+        //specify exceptions manually if needed
+        if (gameObject.CompareTag("Projectile"))
+        {
+            if (HitSE != null)
+                HitSE.Play();
+            Destroy(gameObject, 0.3f);
         }
     }
 
